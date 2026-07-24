@@ -1,0 +1,20 @@
+{
+  "name": "cfa-level-one-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.2.11",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {},
+  "overrides": {
+    "postcss": "8.5.12",
+    "sharp": "0.35.0"
+  }
+}
